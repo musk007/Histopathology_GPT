@@ -7,7 +7,7 @@ remarkable capabilities in addressing various downstream tasks, often yielding r
 generating reports based on histopathology images, widely recognized as among the most challenging medical images. The presented model excels in producing reports that illustrate observations derived from input images in a format
 comprehensible to the medical professionals utilizing it
 
-![plot]()
+![plot](https://github.com/musk007/Histopathology_GPT/blob/main/arch.png)
 
 ## Environment
 Create an environment then install the dependencies
