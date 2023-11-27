@@ -44,6 +44,10 @@ The emergence of deep learning networks, commonly referred to as foundation mode
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Architecture
+
+[!plot][]
+
 
 
 
