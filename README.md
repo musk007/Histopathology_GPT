@@ -46,7 +46,7 @@ The emergence of deep learning networks, commonly referred to as foundation mode
 
 ## Architecture
 
-[!plot][]
+![plot](https://github.com/musk007/Histopathology_GPT/blob/main/arch.png)
 
 
 
